@@ -2,8 +2,7 @@
 
 Welcome to the "Story plots" challenge!
 
-Here's a list of 112,937 plots extracted from wikipedia:
-https://drive.google.com/file/d/1JsORDo4i58m7z6uCpINtiixWmQWC2R-8/view?usp=sharing
+Here's a list of 112,937 plots extracted from wikipedia: https://drive.google.com/uc?export=download&id=1JsORDo4i58m7z6uCpINtiixWmQWC2R-8
 
 Your challenge is to programmatically label as many as you can as having a female protagonist. The titles of the plots are included as well.
 
